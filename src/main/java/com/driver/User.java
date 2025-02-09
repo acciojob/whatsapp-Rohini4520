@@ -5,7 +5,7 @@ public class User {
     private String name;
     private String mobile;
 
-private User( String name, String mobile){
+public User( String name, String mobile){
         this.name = name;
         this.mobile = mobile;
 }
